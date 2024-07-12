@@ -6,5 +6,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 # Contatos:
-![Discord]()
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://dcbadge.limes.pink/api/shield/403311850009264130" target="_blank"></a> 
+![Discord](https://dcbadge.limes.pink/api/shield/403311850009264130)
